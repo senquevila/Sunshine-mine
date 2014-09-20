@@ -1,4 +1,4 @@
-package com.sunshine.senquevila.sunshine;
+package com.senquevila.sunshine;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
