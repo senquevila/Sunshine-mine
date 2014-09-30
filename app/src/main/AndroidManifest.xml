@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme" >
         <uses-sdk
             android:minSdkVersion="15"
-            android:targetSdkVersion="15" />
+            android:targetSdkVersion="19" />
 
         <activity
             android:name=".MainActivity"
